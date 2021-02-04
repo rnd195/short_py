@@ -1,4 +1,6 @@
-# Smaller Python Scripts
+# Short Python Scripts
+
+This is a collection of relatively simple Python scripts that I have put together as I was learning the language.
 
 ### `bubble_sort_alg.py`
 
